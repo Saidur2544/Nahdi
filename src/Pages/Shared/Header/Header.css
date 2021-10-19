@@ -1,0 +1,44 @@
+.button-color{
+    color: #fff;
+    background-color: #00D6A3;
+    outline: none;
+    border-radius: 5px;
+    padding: 6px 15px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.button-color:hover{
+    color: #fff;
+    background-color: #00D6A3;
+}
+.nav-item{
+    color: #033b4a;
+    font-size: 16px;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    display: inline-block;
+    padding: 10px 15px;
+    border-bottom: 2px solid transparent;
+    transition: all .5s linear;
+}
+.nav-item:hover{
+    color: #00D6A3;
+    border-color: #00D6A3;
+}
+.title-name{
+    color: #00D6A3;
+    font-size: 26px;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.button-about a{
+    display: inline-block;
+    padding: 6px 15px ;
+    background-color: #00D6A3;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+}

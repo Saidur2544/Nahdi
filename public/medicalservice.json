@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Nephrologist Care",
+        "short_description": "Nephrologists are medical professionals who diagnose, treat, and manage acute and chronic kidney problems and diseases. They also treat associated issues like high blood pressure, fluid retention, and electrolyte and mineral imbalances",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-isi62yRQTzTJHz7ZWKCosMhr-8MW37k9Lw&usqp=CAU",
+        "long_description": "Nephrologists are doctors who specialize in conditions that affect the kidney. Kidney issues are on the rise around the world, with millions of people each year undergoing treatments for kidney injury or chronic kidney disease (CKD). In fact, kidney disease ranks as the 12th leading cause of death globally and the 9th leading cause in the United States.In the United States, 15% of adults are believed to have chronic kidney disease.Though 90% of them don't realize it or don't visit a nephrologist until the disease has become serious and expensive. Having your kidneys malfunction is even more likely than having your liver malfunction, primarily due to the chronic health conditions that develop at the same time."
+    },
+    {
+        "id": 2,
+        "name": "Eye Care",
+        "short_description": "Give your eyes the care they deserve with Clarins Double Serum. No more tired eyes! Remove wrinkles and dark cirlces forever with Clarins tested formula for youthful eyes. Extra Firming. Hydra Essentiel. Mission Perfection.",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DPQBZvhVvs8GSdzbvt9vxxnjtJB5qIB3QQ&usqp=CAU",
+        "long_description": "Your eyes are an important part of your health. Most people rely on their eyes to see and make sense of the world around them. But some eye diseases can lead to vision loss, so it is important to identify and treat eye diseases as early as possible. You should get your eyes checked as often as your health care provider recommends it, or if you have any new vision problems. And just as it is important to keep your body healthy, you also need to keep your eyes healthy.Everyone needs to have their eyesight tested to check for vision and eye problems. Children usually have vision screening in school or at their health care provider's office during a checkup. Adults may also get vision screenings during their checkups. But many adults need more than a vision screening. They need a comprehensive dilated eye exam."
+    },
+    {
+        "id": 3,
+        "name": "Prenatal Care",
+        "short_description": "Prenatal visits to a health care provider usually include a physical exam, weight checks, and providing a urine sample. Depending on the stage of the pregnancy, health care providers may also do blood tests and imaging tests, such as ultrasound exams.",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpuntSqTKpJX-IofQeyy1hLDTakWnfLafipA&usqp=CAU",
+        "long_description": "Women who suspect they may be pregnant should schedule a visit to their health care provider to begin prenatal care. Prenatal visits to a health care provider usually include a physical exam, weight checks, and providing a urine sample. Depending on the stage of the pregnancy, health care providers may also do blood tests and imaging tests, such as ultrasound exams. These visits also include discussions about the mother's health, the fetus's health, and any questions about the pregnancy"
+    },
+    {
+        "id": 4,
+        "name": "Rehabilitation Center",
+        "short_description": "Rehabilitation hospitals, also referred to as inpatient rehabilitation hospitals, are devoted to the rehabilitation of patients with various neurological, musculoskeletal, orthopedic, and other medical conditions following stabilization of their acute medical issues",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStPOIG-he4fGIdqw3470pwdDaBpUTgk5zJMA&usqp=CAU",
+        "long_description": "Rehabilitation hospitals, also referred to as inpatient rehabilitation[1] hospitals, are devoted to the rehabilitation of patients with various neurological, musculoskeletal, orthopedic, and other medical conditions following stabilization of their acute medical issues. The industry is largely made up by independent hospitals that operate these facilities within acute care hospitals. There are also inpatient rehabilitation hospitals that offer this service in a hospital-like setting, but separate from acute care facilities. Most inpatient rehabilitation facilities are located within hospitals.The objective of rehabilitation is to cure a patient completely.However, exact goals vary for each person.For instance, someone with a problem in their lungs might get pulmonary rehabilitation so that their breathing becomes better.On the other hand, someone with a spine injury may need physical therapy and rehab to help restrict more damage from happening to their backs"
+    },
+    {
+        "id": 5,
+        "name": "Eldery Care",
+        "short_description": "Elderly care, or simply eldercare (also known in parts of the English-speaking world as aged care) serves the needs and requirements of senior citizens. It encompasses assisted living, adult daycare, long-term care, nursing homes (often called residential care), hospice care, and home care.",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQll_VfPV5JEfSJqIQvRYu9Gx_OpCKpmmuoOg&usqp=CAU",
+        "long_description": "Why is elderly care important? Ageing cannot be prevented, but we can learn how to deal with arising conditions for great health of our loved ones. Most health concerns for the elderly are memory loss, dementia and Alzheimer's disease among others.Elder care, often referred to as senior care, is specialized care that is designed to meet the needs and requirements of senior citizens at various stages. As such, elder care is a rather broad term, as it encompasses everything from assisted living and nursing care to adult day care, home care, and even hospice care."
+    },
+    {
+        "id": 6,
+        "name": "Medical Counseling",
+        "short_description": "The main purpose of counseling is to help the patient amplify the vision of the specific situation and discover the proper potential in dealing with the conditions of disease, in order to promote a better quality of life.",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3qN3UwCebR92xtgf6zbef5x2YY4gMz2pTQ&usqp=CAU",
+        "long_description": "The World Health Organization defines Counseling like a well-focused process, limited in time and specific, which uses the interaction to help people deal with their problems and respond in a proper way to specific difficulties in order to develop new coping strategies. In medical settings, the process of Counseling represents a valid intervention made of a quality interaction between the counselor and the patient, characterized by the capacity of the counselor to empathize with the interior world of the patient. The main purpose of counseling is to help the patient amplify the vision of the specific situation and discover the proper potential in dealing with the conditions of disease, in order to promote a better quality of life. The aim of this article is to propose a combined intervention that includes all the actors of the medical and social settings, in a counselor- medical staff- patient cooperation. In this paper, the proposal is to show the importance of a combined and co-relationship between the various professionals bringing concrete and important advantages to all the actors of the social system we are living. Specifically in the world of health and medicine, this requirement it is shown quite clearly and it seems one of the best solutions of this long struggle in which he entered more than thirty years ago in the world of ca"
+    }
+]

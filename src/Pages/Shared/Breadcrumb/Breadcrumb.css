@@ -1,0 +1,26 @@
+#breadcrumb{
+    background: url(../../../Images/breadcumb.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    opacity: 0.8;
+}
+.breadcrumb-heading{
+    font-size: 46px;
+    color: #00D6A3;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+}
+.breadcrumb-para{
+    font-size: 26px;
+    color: #033b4a;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+}
+.icon-arrow{
+    font-size: 26px;
+}

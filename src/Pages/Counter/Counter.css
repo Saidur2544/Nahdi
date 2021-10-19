@@ -1,0 +1,28 @@
+#counter_section{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background-color: #00D6A3;
+}
+.counter-item{
+    background: #fff;
+    box-shadow: 0 0 15px 0 rgb(41 61 88 / 10%);
+    border-radius: 5px;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.counter-item h2{
+    font-size: 32px;
+    font-weight: 500;
+    color : #021c24;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+}
+.counter-item h4{
+    font-size: 24px;
+    font-weight: 500;
+    color : #032a36;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+}

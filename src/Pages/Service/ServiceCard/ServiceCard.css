@@ -1,0 +1,40 @@
+.serviceItem{
+    background: #fff;
+    box-shadow: 0 0 15px 0 rgb(41 61 88 / 10%);
+    border-radius: 5px;
+}
+.service_img{
+    height: 230px;
+    width: 100%;
+}
+.service_name{
+    font-size: 26px;
+    font-weight: 500;
+    color : #033b4a;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+}
+.service_short_desp{
+    font-size: 16px;
+    font-weight: 300;
+    text-align: justify;
+    color : #033b4a;
+    font-family: 'Roboto', sans-serif;
+}
+.service_details_button{
+    display: inline-block;
+    padding: 6px 15px;
+    color: #fff;
+    background-color: #00D6A3;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.service_details_button:hover{
+    color: #fff;
+    background-color: #00D6A3;
+}
